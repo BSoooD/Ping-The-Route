@@ -4,7 +4,9 @@ A tool that combines traceroute and ping.
 **Dependencies:**
 pyyaml, ping3
 
-**Usage for ping_the_route_cli.exe:**
+**Warning! The built executables can trigger AV heuristics and generic detections, because they're packed with PyInstaller. They're NOT malicious, this is a false positive. If you don't trust the executables - use the source code, it's right here.**
+
+**Usage for ping_the_route_cli:**
 
 ```
 positional arguments:
@@ -29,7 +31,7 @@ Route to 1.1.1.1 (1.1.1.1)
 
  1  1.1.1.1          0.3 ms  loss 0%
 ```
-**ping_the_route_gui.exe:**
+**ping_the_route_gui:**
 
 <img width="662" height="520" alt="image" src="https://github.com/user-attachments/assets/11a26184-f22f-4927-8c01-1ae601f1ada0" />
 
