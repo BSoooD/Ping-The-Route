@@ -38,3 +38,5 @@ Route to 1.1.1.1 (1.1.1.1)
 **ping_the_route_gui example input & output:**
 
 <img width="662" height="520" alt="image" src="https://github.com/user-attachments/assets/10a2edb8-851d-4880-bc7c-d8397c729b25" />
+
+(sorry for bad english)
