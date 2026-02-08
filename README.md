@@ -5,7 +5,7 @@ Made to ~~stare at it for 5 billion years straight~~ detect failing nodes.
 **Dependencies:**
 pyyaml, ping3
 
-**Warning! The built executables can trigger AV heuristics and generic detections, because they're packed with PyInstaller. They're NOT malicious, this is a false positive. If you don't trust the executables - use the source code, it's right here.**
+**Warning! The built executables can trigger AV heuristics and generic detections, because they're packed with PyInstaller. They're NOT malicious, this is a false positive.**
 
 **Usage for ping_the_route_cli:**
 
