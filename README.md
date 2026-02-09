@@ -1,6 +1,6 @@
 # Ping-The-Route
 A tool that combines traceroute and ping.
-Made to ~~stare at it for 5 billion years straight~~ detect failing nodes.
+Made to ~~stare at it for 69 billion years straight~~ detect failing nodes.
 
 **Dependencies:**
 pyyaml, ping3
